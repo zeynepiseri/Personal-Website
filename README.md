@@ -1,2 +1,3 @@
 # Personal-Website
-https://user-images.githubusercontent.com/110569853/206360728-3aaf0332-d946-4ee8-923d-1303e3b45245.mp4
+
+https://github.com/zeynepiseri/Personal-Website/assets/110569853/8e9efbd8-441d-4552-a3d2-067d5115874e
